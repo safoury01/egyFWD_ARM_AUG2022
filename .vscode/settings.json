@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "sdkconfig.h": "c",
+        "stdio.h": "c",
+        "freertos.h": "c",
+        "mcu_hw.h": "c",
+        "intctrl.h": "c"
+    }
+}
